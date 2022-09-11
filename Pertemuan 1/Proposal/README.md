@@ -9,7 +9,6 @@
 - User guru bisa menginput siswa (termasuk data siswanya) yang diajarnya.
 - User guru bisa menginput absen.
 - User guru bisa menginput nilai.
-- User dinas bisa mengelola pencairan rupiah
 
 ## Struktur Data
 
