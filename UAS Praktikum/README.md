@@ -1,6 +1,7 @@
 # CLO-0211
 ### Demo : Git installation
-
+![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img/Git%20Instal/Screenshot%20(887).png)
+![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img/Git%20Instal/Screenshot%20(889).png)
 
 ### Demo : Github project initialization
 
