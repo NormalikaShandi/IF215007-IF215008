@@ -1,27 +1,66 @@
-Demo : Git installation	1
-Demo : Github project initialization	1
-Demo : Hoppscotch / Postman access	1
-Demo : PHP & Composer installation & hello world	2
-Demo : PostgreSQL / MySQL installation	2
-Demo : DBeaver installation & DB connection	2
-Demo : MobaXterm installation & SSH connection	2
-Demo : NodeJS & NPM installation, operation & hello world	4
-Demo : Linux server operation	5
-Demo : Nginx / Apache web server installation & operation	5
-Demo : Cpanel operation	4
-Demo : Domain registration	1
-CLO-0212	35 %
-Demo : HTML Responsive Layout with Media Query & Flexbox	3
-Demo : Javascript Data Transformation	4
-Demo : Browser API - Event Handling, Local Storage, Element manipulation	5
-Demo : HTTP GET & POST using Form Action and Fetch API	5
-Demo : PHP DB - Dynamic Web Page	5
-Demo : PHP DB - Web Service	5
-Demo : OOP-based PHP Project using Composer	4
-Demo : Deploy PHP Project to Cpanel	4
-CLO-0213	35 %
-Demo : HTML Responsive Layout with Bootstrap	3
-Demo : Single Page App with React & React-router	12
-Demo : Dynamic Web Page using Laravel	9
-Demo : Web Service using Slim	6
-Demo : News Site using Wordpress
+# CLO-0211
+### Demo : Git installation
+
+
+### Demo : Github project initialization
+
+### Demo : Hoppscotch / Postman access
+
+
+### Demo : PHP & Composer installation & hello world	
+
+### Demo : PostgreSQL / MySQL installation	
+
+
+### Demo : DBeaver installation & DB connection
+
+
+### Demo : MobaXterm installation & SSH connection
+
+
+### Demo : NodeJS & NPM installation, operation & hello world
+
+
+### Demo : Linux server operation	
+
+### Demo : Nginx / Apache web server installation & operation
+
+### Demo : Cpanel operation	
+
+### Demo : Domain registration
+
+# CLO-0212
+### Demo : HTML Responsive Layout with Media Query & Flexbox
+
+
+### Demo : Javascript Data Transformation
+
+
+### Demo : Browser API - Event Handling, Local Storage, Element manipulation
+
+
+### Demo : HTTP GET & POST using Form Action and Fetch API
+
+### Demo : PHP DB - Dynamic Web Page
+
+
+### Demo : PHP DB - Web Service
+
+
+### Demo : OOP-based PHP Project using Composer
+
+### Demo : Deploy PHP Project to Cpanel
+
+# CLO-0213
+### Demo : HTML Responsive Layout with Bootstrap
+
+
+### Demo : Single Page App with React & React-router
+
+
+### Demo : Dynamic Web Page using Laravel
+
+
+### Demo : Web Service using Slim
+
+### Demo : News Site using Wordpress
