@@ -12,14 +12,6 @@
 
 ## Struktur Data
 
-### User
-##### Guru
-Atribut|Tipe Data|Contoh
----|---|---
-ID | integer | 123
-username | string | santi 
-email | string | santi01@gmail.com
-
-## UX Wireframe
+![erd](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/Teacher-app/Untitled%20Diagram.drawio.png)
 
 
