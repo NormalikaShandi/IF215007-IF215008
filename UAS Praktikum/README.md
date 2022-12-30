@@ -1,27 +1,27 @@
 # CLO-0211
 ### Demo : Git installation
-![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20install.gif)
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20install.gif)
 
 ### Demo : Github project initialization
-![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20init.png)
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20init.png)
 
 ### Demo : Hoppscotch / Postman access
-![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-hoppscoth%20access.png)
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-hoppscoth%20access.png)
 
 ### Demo : PHP & Composer installation & hello world	
-![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-hello%20word.png)
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-hello%20word.png)
 
 ### Demo : PostgreSQL / MySQL installation	
-![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-%20postgresql%20instal.png)
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-%20postgresql%20instal.png)
 
 ### Demo : DBeaver installation & DB connection
-
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-install%20dbeaver.png)
 
 ### Demo : MobaXterm installation & SSH connection
-
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-instal%20mobaxtrem.png)
 
 ### Demo : NodeJS & NPM installation, operation & hello world
-
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-Instal%20npm%20dan%20node.png)
 
 ### Demo : Linux server operation	
 
