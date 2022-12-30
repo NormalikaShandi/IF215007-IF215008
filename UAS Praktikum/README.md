@@ -24,6 +24,8 @@
 ![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-Instal%20npm%20dan%20node.png)
 
 ### Demo : Linux server operation	
+Tidak didownload karna ukuran file besar
+![img](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-linux%20server.png)
 
 ### Demo : Nginx / Apache web server installation & operation
 
