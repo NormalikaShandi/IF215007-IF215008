@@ -2,8 +2,8 @@
 ### Demo : Git installation
 ![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20install.gif)
 
-
 ### Demo : Github project initialization
+![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-git%20init.png)
 
 ### Demo : Hoppscotch / Postman access
 
