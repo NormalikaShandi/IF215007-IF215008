@@ -12,7 +12,7 @@
 ![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-hello%20word.png)
 
 ### Demo : PostgreSQL / MySQL installation	
-
+![Git](https://github.com/NormalikaShandi/IF215007-IF215008/blob/main/UAS%20Praktikum/img%20or%20vid/PAW-%20postgresql%20instal.png)
 
 ### Demo : DBeaver installation & DB connection
 
